@@ -173,7 +173,6 @@ div.works {
   color: #1c1a19;
   margin-left: 7%;
   margin-top: 0%;
-   
 }
 
 hr {
@@ -228,49 +227,36 @@ div.lessons {
   margin-bottom: 2%;
   margin-top: -6%;
 }
- 
 
 div.lessons span {
   box-sizing: border-box;
   padding: 10px 12px;
-   
   background: #fff;
   border: 1px solid #8993a4;
-   margin-left: 3%;
+  margin-left: 3%;
   font-family: 'Inter', sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 15px;
   line-height: 20px;
   color: #091e42;
+}
 
-}
-*/
-span.lessons{
-  background: skyblue;
-}
-span.html { 
+
+span.html {
   width: 56px;
-   
 }
 
 span.css {
   width: 56px;
-  
-  
-   
 }
 
 span.bootstrap {
   width: 95px;
-  
-  
 }
 
 span.ruby {
   width: 56px;
-  
-   
 }
 
 button.see {
